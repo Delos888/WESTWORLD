@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e86dbae72d90c8c10394929bc8dca7bc",
+    "revision": "5475bd487de06f44a8dcc57e1803d3da",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.79bee1f3.chunk.css"
   },
   {
-    "revision": "aef5eb1110cba88d4860",
+    "revision": "41d2f48e906844fb3fac",
     "url": "./static/css/main.3c6d655c.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.4935fe02.chunk.js"
   },
   {
-    "revision": "aef5eb1110cba88d4860",
-    "url": "./static/js/main.dbd7de8f.chunk.js"
+    "revision": "41d2f48e906844fb3fac",
+    "url": "./static/js/main.3879a1ef.chunk.js"
   },
   {
     "revision": "82fcd2ac3420d4b87bec",
     "url": "./static/js/runtime-main.08c7bce1.js"
   },
   {
-    "revision": "b440af16baa594ca45dc7a4429778ebc",
-    "url": "./static/media/WestWorld1_02.b440af16.jpg"
+    "revision": "6f38f12f489cf53943c7e99f5e00da2f",
+    "url": "./static/media/WestWorld1_02.6f38f12f.jpg"
   },
   {
     "revision": "9d24b3428c5a1940c7902ec2f4ce7318",

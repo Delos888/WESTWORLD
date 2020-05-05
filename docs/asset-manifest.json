@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.3c6d655c.chunk.css",
-    "main.js": "./static/js/main.dbd7de8f.chunk.js",
-    "main.js.map": "./static/js/main.dbd7de8f.chunk.js.map",
+    "main.js": "./static/js/main.3879a1ef.chunk.js",
+    "main.js.map": "./static/js/main.3879a1ef.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.08c7bce1.js",
     "runtime-main.js.map": "./static/js/runtime-main.08c7bce1.js.map",
     "static/css/2.79bee1f3.chunk.css": "./static/css/2.79bee1f3.chunk.css",
     "static/js/2.4935fe02.chunk.js": "./static/js/2.4935fe02.chunk.js",
     "static/js/2.4935fe02.chunk.js.map": "./static/js/2.4935fe02.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.9e6ffbbdec89c75cc66034ab1a358f9a.js": "./precache-manifest.9e6ffbbdec89c75cc66034ab1a358f9a.js",
+    "precache-manifest.f6b89b5c446151bf651c017ab6e499e8.js": "./precache-manifest.f6b89b5c446151bf651c017ab6e499e8.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.79bee1f3.chunk.css.map": "./static/css/2.79bee1f3.chunk.css.map",
     "static/css/main.3c6d655c.chunk.css.map": "./static/css/main.3c6d655c.chunk.css.map",
-    "static/media/WestWorld1_02.jpg": "./static/media/WestWorld1_02.b440af16.jpg",
+    "static/media/WestWorld1_02.jpg": "./static/media/WestWorld1_02.6f38f12f.jpg",
     "static/media/WestWorld1_05.jpg": "./static/media/WestWorld1_05.9d24b342.jpg"
   },
   "entrypoints": [
@@ -21,6 +21,6 @@
     "static/css/2.79bee1f3.chunk.css",
     "static/js/2.4935fe02.chunk.js",
     "static/css/main.3c6d655c.chunk.css",
-    "static/js/main.dbd7de8f.chunk.js"
+    "static/js/main.3879a1ef.chunk.js"
   ]
 }
